@@ -39,6 +39,10 @@ Clone this repo:
 git clone https://github.com/yourusername/cnn-from-scratch.git
 cd cnn-from-scratch
 
+```
+
+<br/>
+
 ## 📈 Training
 
 Training is done through a forward pass, backpropagation, and weight updates using gradient descent. Accuracy is tracked during training to monitor learning progress.
